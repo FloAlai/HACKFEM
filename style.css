@@ -1,5 +1,12 @@
+@font-face {
+    font-family: "Elephant";
+    src: url("fonts/ELEPHNT.TTF") format("truetype"),
+    url("fonts/ELEPHNTI.TTF") format("truetype");
+}
+
 h1{
-    color: black;
+    font-family: Elephant, serif;
+    color:#EE2677;
 }
 .infoCoders{
     flex-wrap: wrap;
@@ -7,6 +14,20 @@ h1{
     justify-content: space-evenly;
 
 }
+
+p{
+    font-family: "Franklin Gothic Book", serif;
+    color: #5A9367;
+    font-size: 20px;
+
+}
+
+h2{
+    font-family: Elephant, serif;
+    color: #EE2677;
+
+}
+
 .fotoTaiza{
     height: 250px;
     width: 250px;
@@ -60,7 +81,7 @@ i {v
 }
 *{
     background-color:#FAF9F0;
-}
+}v
 .fa-github {
     color: black;
 }
