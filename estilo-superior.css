@@ -1,0 +1,43 @@
+body {background-color: #EFE8D0;
+    }
+
+.barra-superior {
+    width: auto;
+    height: 60px;
+    background-color: #894d69;
+    color:white;
+    display:flex;
+    justify-content: end;
+    font-family: Calibri;
+    align-items:center;
+}
+/*button {
+    background-color:hotpink}
+*/
+.boton-que {
+    background-color: #894d69;
+
+}
+
+.botonwhat-text{
+    color:white;
+    font-family: Calibri;
+}
+
+.boton-quienes {
+    background-color: #894d80;
+}
+.fa-bug{font-size: xx-large
+  }
+
+
+.botonwho-text {
+    color:white;
+    font-family: Calibri;
+}
+.nombre-empresa {
+    font-weight:bold;
+    width: 1000px;
+    display:flex;
+    justify-content:left;
+}
