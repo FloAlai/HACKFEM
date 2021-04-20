@@ -5,9 +5,13 @@
 }
 
 h1{
-    font-family: Elephant, serif;
     color:#EE2677;
 }
+
+h1{
+    font-family: Elephant, serif;
+}
+
 .infoCoders{
     flex-wrap: wrap;
     display: flex;
@@ -28,51 +32,23 @@ h2{
 
 }
 
-.fotoTaiza{
+.foto{
     height: 250px;
     width: 250px;
-    border : 3px solid grey;
     margin: 60px;
     padding: 10px;
     border-radius: 800px;
     overflow: hidden;
 }
-.fotoYazmin{
-    height: 250px;
-    width: 250px;
-    border : 3px solid grey;
-    margin: 60px;
-    padding: 10px;
-    border-radius: 800px;
-    overflow: hidden;
+
+.cargo{
+    color: #f49ac1;
+    font-family: Elephant, serif;
+
 }
-.fotoFlor{
-    height: 250px;
-    width: 250px;
-    border : 3px solid grey;
-    margin: 60px;
-    padding: 10px;
-    border-radius: 800px;
-    overflow: hidden;
-}
-.fotoAna{
-    height: 250px;
-    width: 250px;
-    border : 3px solid grey;
-    margin: 60px;
-    padding: 10px;
-    border-radius: 800px;
-    overflow: hidden;
-}
-.fotoYeraldin{
-    height: 250px;
-    width: 250px;
-    border : 1px solid grey;
-    margin: 60px;
-    padding: 10px;
-    border-radius: 800px;
-    overflow: hidden;
-}
+.nombre{
+    font-family: Elephant, serif;
+    font-size: 25px; }
 .etiqueta{
     font-size: xx-large;
 }
