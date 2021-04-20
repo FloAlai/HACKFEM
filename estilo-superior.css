@@ -1,4 +1,4 @@
-body {background-color: #EFE8D0;
+body {background-color: #FAF9F0;
     }
 
 .barra-superior {
@@ -16,6 +16,9 @@ body {background-color: #EFE8D0;
 */
 .boton-que {
     background-color: #894d69;
+    border: none;
+    text-transform: uppercase;
+
 
 }
 
@@ -25,7 +28,10 @@ body {background-color: #EFE8D0;
 }
 
 .boton-quienes {
-    background-color: #894d80;
+    background-color: #894d69;
+    border: none;
+    text-transform: uppercase;
+
 }
 .fa-bug{font-size: xx-large
   }
