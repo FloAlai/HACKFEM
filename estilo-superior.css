@@ -8,8 +8,9 @@ body {background-color: #FAF9F0;
     color:white;
     display:flex;
     justify-content: end;
-    font-family: Calibri;
+    font-family: Elephant;
     align-items:center;
+    font-size: 25px;
 }
 /*button {
     background-color:hotpink}
@@ -24,7 +25,8 @@ body {background-color: #FAF9F0;
 
 .botonwhat-text{
     color:white;
-    font-family: Calibri;
+    font-family: Elephant;
+    font-size: 12px;
 }
 
 .boton-quienes {
@@ -32,15 +34,26 @@ body {background-color: #FAF9F0;
     border: none;
     text-transform: uppercase;
 
+
 }
+button {
+    transition-duration: 0.4s;
+
+}
+button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
 .fa-bug{font-size: xx-large
   }
 
 
 .botonwho-text {
-    color:white;
-    font-family: Calibri;
-}
+    color: white;
+    font-family: Elephant;
+    font-size: 12px;}
+
 .nombre-empresa {
     font-weight:bold;
     width: 1000px;
