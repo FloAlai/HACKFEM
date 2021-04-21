@@ -7,6 +7,7 @@
 
 }
 
+
 h1{
     color:#EE2677;
 }
@@ -42,7 +43,10 @@ button:hover {
 }
 body{
     margin: auto ;
+    background-color:#EFE8D0;
+
 }
+
 .fa-bug {
     font-size: xx-large;
     padding: 20px;
