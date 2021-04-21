@@ -14,7 +14,15 @@ h1{
 h1{
     font-family: Elephant, serif;
 }
+button {
+    transition-duration: 0.4s;
 
+
+}
+button:hover {
+    background-color: lightpink;
+    color: white;
+}
 .menu {
     height: 60px;
     background-color: #894d69;
@@ -102,6 +110,10 @@ h2{
     color: black;
     font-family: Elephant, serif;
 
+}
+.nombre-empresa{
+    text-decoration: none;
+    color: white;
 }
 
 .nombre{
