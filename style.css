@@ -15,6 +15,44 @@ h1{
     font-family: Elephant, serif;
 }
 
+.menu {
+    height: 60px;
+    background-color: #894d69;
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    font-family: Elephant;
+    align-items:center;
+    font-size: 25px;
+}
+.fa-bug {
+    font-size: xx-large;
+
+}
+.boton-que {
+    background-color: #894d69;
+    border: none;
+    text-transform: uppercase;
+
+}
+.botonwhat-text{
+    color:white;
+    font-family: Elephant;
+    text-decoration: none;
+    font-size: 13px;
+
+}
+.boton-quienes {
+    background-color: #894d69;
+    border: none;
+    text-transform: uppercase;
+}
+.botonwho-text {
+    color: white;
+    font-family: Elephant;
+    font-size: 13px;
+}
+
 .infoCoders{
     flex-wrap: wrap;
     display: flex;
@@ -59,20 +97,15 @@ h2{
 i {v
     font-size: xx-large;
 }
-*{
+/* *{
     background-color:#FAF9F0;
-}v
+}*/
 .fa-github {
     color: black;
+
 }
-.fa-bug {
-    font-size: larger;
-    color:black;
-}
-.menu {
-    background-color:  #894d69;
-    background-size: 800px;
-}
+
+
 .menu.burger{
     padding: 20px;
 }
