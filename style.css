@@ -24,9 +24,10 @@ h1{
     font-family: Elephant;
     align-items:center;
     font-size: 25px;
+
 }
 body{
-    margin: 0px 20px 60px 20px;
+    margin: auto ;
 }
 .fa-bug {
     font-size: xx-large;
@@ -68,9 +69,11 @@ body{
     flex-wrap: wrap;
     display: flex;
     justify-content: space-evenly;
-
+    padding: 60px;
 }
-
+.nuestroGrupo{
+    margin: 30px;
+}
 .parrafo{
     font-family: "Franklin Gothic Demi Cond", Serif;
     color: seagreen;
