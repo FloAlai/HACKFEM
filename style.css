@@ -16,6 +16,7 @@ h1{
 }
 button {
     transition-duration: 0.4s;
+<<<<<<< HEAD
 
 
 }
@@ -23,7 +24,15 @@ button:hover {
     background-color: lightpink;
     color: white;
 }
+=======
+>>>>>>> de96a3ebbc073610029a57b20156807c111398f8
 
+
+}
+button:hover {
+    background-color: lightpink;
+    color: white;
+}
 .menu {
     height: 60px;
     background-color: #894d69;
@@ -111,6 +120,10 @@ h2{
     color: black;
     font-family: Elephant, serif;
 
+}
+.nombre-empresa{
+    text-decoration: none;
+    color: white;
 }
 
 .nombre{
