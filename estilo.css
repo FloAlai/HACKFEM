@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Elephant";
+    src: url("fonts/ELEPHNT.TTF") format("truetype"),
+    url("fonts/ELEPHNTI.TTF") format("truetype");
+    font-family: "franklin gothic demi cont";
+    src: url("fonts/FRADMCN.TTF") format("truetype");
+
+}
+h1{
+    color:#EE2677;
+}
