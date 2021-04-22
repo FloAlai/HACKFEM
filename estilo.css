@@ -6,6 +6,77 @@
     src: url("fonts/FRADMCN.TTF") format("truetype");
 
 }
+
+button {
+    transition-duration: 0.4s;
+
+
+}
+button:hover {
+    background-color: lightpink;
+    color: white;
+}
+
+
+button:hover {
+    background-color: lightpink;
+    color: white;
+}
+.menu {
+    height: 60px;
+    background-color: #894d69;
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    font-family: Elephant;
+    align-items:center;
+    font-size: 25px;
+
+}
+body{
+    margin: auto ;
+    background-color:#EFE8D0;
+
+}
+
+.fa-bug {
+    font-size: xx-large;
+    padding: 20px;
+}
+
+.boton-que {
+    background-color: #894d69;
+    border: none;
+    text-transform: uppercase;
+    justify-self: flex-end;
+
+}
+.botonwhat-text{
+    color:white;
+    font-family: Elephant;
+    text-decoration: none;
+    font-size: 13px;
+
+}
+.boton-quienes {
+    background-color: #894d69;
+    border: none;
+    text-transform: uppercase;
+    display: flex;
+
+}
+.zonaBotones{
+    padding: 10px;
+    display: flex;
+    height: 60px;
+}
+.botonwho-text {
+    color: white;
+    font-family: Elephant;
+    font-size: 13px;
+    align-self: center;
+}
+
 body {
    /* margin: 50px 50px 50px 50px;*/
     margin: auto;
