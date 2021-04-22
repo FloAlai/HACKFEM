@@ -6,6 +6,29 @@
     src: url("fonts/FRADMCN.TTF") format("truetype");
 
 }
+body {
+    margin: 50px 50px 50px 50px;
+    background-attachment: fixed;
+    background: url("img/fotoslavandas.jpg");
+    background-position-x: left;
+}
 h1{
     color:#EE2677;
+}
+
+
+.Campanias {
+    height: 250px;
+    width: 250px;
+    margin: 60px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.servicios {
+
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px;
 }
