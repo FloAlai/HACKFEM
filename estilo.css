@@ -9,10 +9,13 @@
 body {
    /* margin: 50px 50px 50px 50px;*/
     margin: auto;
-    background-color: #C0C0C0;
+    background-color: #eedbef;
 }
 h1{
     color:#EE2677;
+}
+h2{
+    font-size: 40px;
 }
 .Campanias {
     height: 250px;
@@ -35,6 +38,7 @@ h1{
 }
 .hacer{
     display: flex;
+    text-align: center;
     margin: 50px;
 }
 .cuerpo{
