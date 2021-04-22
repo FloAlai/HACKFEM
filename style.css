@@ -103,11 +103,6 @@ body{
 
 }
 
-h2{
-    font-family: Elephant, serif;
-    color: #EE2677;
-
-}
 
 .foto{
     height: 250px;
@@ -131,9 +126,7 @@ h2{
 .nombre{
     font-family: Elephant, serif;
     font-size: 25px; }
-.etiqueta{
-    font-size: xx-large;
-}
+
 i {
     font-size: xx-large;
 }
@@ -146,11 +139,8 @@ i {
 }
 
 
-.menu.burger{
+.menu.burger {
     padding: 20px;
-}
-.Coder-4{
-    align-self: flex-end;
 }
 @media (max-width: 548px) {
     .menu a {
