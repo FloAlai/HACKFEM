@@ -76,11 +76,13 @@ body{
 .zonaBotones{
     padding: 10px;
     display: flex;
+    height: 60px;
 }
 .botonwho-text {
     color: white;
     font-family: Elephant;
     font-size: 13px;
+    align-self: center;
 }
 
 .infoCoders{
