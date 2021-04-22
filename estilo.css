@@ -7,16 +7,13 @@
 
 }
 body {
-    margin: 50px 50px 50px 50px;
-    background-attachment: fixed;
-    background: url("img/fotoslavandas.jpg");
-    background-position-x: left;
+   /* margin: 50px 50px 50px 50px;*/
+    margin: auto;
+    background-color: #C0C0C0;
 }
 h1{
     color:#EE2677;
 }
-
-
 .Campanias {
     height: 250px;
     width: 250px;
@@ -31,4 +28,24 @@ h1{
     display: flex;
     justify-content: space-evenly;
     padding: 60px;
+}
+.parrafo{
+    font-size: 20px;
+    margin: 50px;
+}
+.hacer{
+    display: flex;
+    margin: 50px;
+}
+.cuerpo{
+    background-attachment: fixed;
+    background: url("img/fotoslavandas.jpg");
+    background-position: 250px 250px;
+    display:flex;
+    font-family: Elephant;
+    align-items:center;
+    font-size: 25px;
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+
 }
