@@ -108,11 +108,15 @@ body{
     padding: 10px;
     border-radius: 800px;
     overflow: hidden;
+
+    justify-content:center;
 }
 
 .cargo{
     color: black;
     font-family: Elephant, serif;
+    display: flex;
+    justify-content: center;
 
 }
 .nombre-empresa{
@@ -122,16 +126,25 @@ body{
 
 .nombre{
     font-family: Elephant, serif;
-    font-size: 25px; }
+    font-size: 25px;
+    display: flex;
+    justify-content:center;}
 
-i {
+/*i {
     font-size: large;
-}
+}*/
 /* *{
     background-color:#FAF9F0;
 }*/
-.fa-github {
+.fa-github{
     color: black;
+
+}
+.logos-red{
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
 
 }
 
