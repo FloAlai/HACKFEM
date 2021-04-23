@@ -49,6 +49,11 @@ body{
     padding: 20px;
 }
 
+.nombre-empresa{
+    text-decoration: none;
+    color: white;
+}
+
 .boton-que {
     background-color: #894d69;
     border: none;
@@ -118,10 +123,6 @@ body{
     display: flex;
     justify-content: center;
 
-}
-.nombre-empresa{
-    text-decoration: none;
-    color: white;
 }
 
 .nombre{
