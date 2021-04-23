@@ -111,6 +111,7 @@ body{
     width: 250px;
     margin: 60px;
     padding: 10px;
+    object-fit: cover;
     border-radius: 800px;
     overflow: hidden;
 
